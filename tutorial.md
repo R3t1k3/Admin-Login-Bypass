@@ -6,7 +6,7 @@ Hoje neste tutorial mostrarei de forma simples como #bypass_admin_login nome de 
 ### Agora, tente isso para fins educacionais. Não use mal.
 
 
-`Aqui eu te dou tudo isso #dork and #bypass_string.`
+`Aqui eu te dou tudo isso #dork e #bypass_string.`
 
 
 A #string é :-     '=' 'OR'     (Use-o para nome de usuário e senha)
